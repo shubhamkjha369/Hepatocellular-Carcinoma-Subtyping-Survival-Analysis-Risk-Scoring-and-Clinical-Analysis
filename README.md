@@ -8,6 +8,7 @@
 [![Scikit-Learn 1.4+](https://img.shields.io/badge/Scikit--Learn-1.4+-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![SHAP](https://img.shields.io/badge/SHAP-Explainability-blueviolet?style=flat)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shubhamkjha369/Hepatocellular-Carcinoma-Subtyping-Survival-Analysis-Risk-Scoring-and-Clinical-Analysis/blob/main/Liver_Cancer_Subtyping_and_Precision_Profiling.ipynb)
 
 **Computational Biology and Translational Medicine Framework**
 
