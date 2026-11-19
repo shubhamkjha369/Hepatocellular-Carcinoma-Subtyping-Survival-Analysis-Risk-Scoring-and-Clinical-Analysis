@@ -28,3 +28,13 @@ Thumbs.db
 # Personal documents
 Shubham_Jha_CompBio_Resume.docx
 Shubham_Jha_CompBio_Resume_ATS.txt
+
+
+# Preprints, PDFs, Presentations, LaTeX, and Backups
+pre-print/
+backups/
+scratch/
+*.pdf
+*.pptx
+*.ppt
+*.tex
